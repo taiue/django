@@ -13,6 +13,18 @@ posts = [
         'title': 'Teste main card Post 2',
         'content': 'Second post content',
         'date_posted': 'August 28, 2022'
+    },
+    {
+        'author': 'Jane Doe',
+        'title': 'Teste main card Post 2',
+        'content': 'Second post content',
+        'date_posted': 'August 28, 2022'
+    },
+    {
+        'author': 'Jane Doe',
+        'title': 'Teste main card Post 2',
+        'content': 'Second post content',
+        'date_posted': 'August 28, 2022'
     }
 ]
 
